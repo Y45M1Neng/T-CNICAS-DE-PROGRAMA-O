@@ -1,2 +1,2 @@
-# T-CNICAS-DE-PROGRAMA-O
-LVP's
+#Técnicas de programação
+Segue os LVP's, UFCG, ENG. ELÉTRICA
